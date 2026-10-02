@@ -1,2 +1,3 @@
 pytest
 # CI test
+# automatic trigger test
